@@ -23,6 +23,10 @@ Purpose:
 The core technology for writing and executing the calculator application.
 Java is chosen for its object-oriented principles, ease of use, and wide applicability in various types of applications.
 
+Out Put:
+![image](https://github.com/user-attachments/assets/ec6f27cd-de4a-4f20-85e9-503af48a5af2)
+
+
 
 
 

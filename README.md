@@ -26,7 +26,8 @@ Java is chosen for its object-oriented principles, ease of use, and wide applica
 Out Put:
 
 
-![image](https://github.com/user-attachments/assets/ec6f27cd-de4a-4f20-85e9-503af48a5af2)
+![image](https://github.com/user-attachments/assets/92ea210e-5519-4dc3-a1a7-f4b8658daadd)
+
 
 
 
